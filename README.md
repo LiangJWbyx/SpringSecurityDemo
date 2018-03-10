@@ -1,0 +1,2 @@
+# SpringSecurityDemo
+这是我为了学习SpringSecurity而创建的仓库，会不断更新完善，会从最基本的开始，慢慢深入SpringSecurity，希望大家不断提出改进意见。
